@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wirelessmission
 - 👀 I’m interested in wireless technologies, improving operations and reducing energy waste
-- 🌱 I’m currently learning quantum technologies
-- 💞️ I’m looking to collaborate on reducing energy waste
+- 🌱 I’m currently learning about quantum technologies
+- 💞️ I’m looking to collaborate on projects that reduce wireless energy waste
 - 📫 How to reach me ...
 
 <!---
